@@ -1,4 +1,4 @@
-#part 1 A
+# part 1 A
 ```c++
 #include <iostream>
 #include <random>
@@ -37,3 +37,13 @@ int main()
   cout << finalanswer;
 }
 ```
+# part 1 B
+660 / 288 = 2 r 84
+
+288 / 84 = 3 r 36
+
+84 / 36 = 2 r 12
+
+36 / 12 = 3 r 0
+
+12
